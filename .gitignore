@@ -1,5 +1,6 @@
 # Custom files
-Packages/com.ptc.vuforia.engine-11.3.4.tgz
+/Packages/com.ptc.vuforia.engine-11.3.4.tgz
+/UserSettings/
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
