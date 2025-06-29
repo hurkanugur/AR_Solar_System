@@ -52,6 +52,9 @@
     <Compile Include="Assets/Scripts/OrbitMotion.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets/StreamingAssets/Vuforia/solar_system.xml" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/6000.1.2f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
       <Private>False</Private>
