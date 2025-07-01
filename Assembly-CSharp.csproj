@@ -48,8 +48,7 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.1.2f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scripts/PlanetRotation.cs" />
-    <Compile Include="Assets/Scripts/OrbitMotion.cs" />
+    <Compile Include="Assets/Scripts/SolarSystemController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/StreamingAssets/Vuforia/solar_system.xml" />

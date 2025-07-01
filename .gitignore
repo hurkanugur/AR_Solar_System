@@ -1,6 +1,7 @@
 # Custom files
-/Packages/com.ptc.vuforia.engine-11.3.4.tgz
-/UserSettings/
+Packages/com.ptc.vuforia.engine-11.3.4.tgz
+UserSettings/Layouts/CurrentMaximizeLayout.dwlt
+UserSettings/Layouts/default-6000.dwlt
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #
